@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Pages
+
+I'm a second year PhD student in UNSW
 
 You can use the [editor on GitHub](https://github.com/yxlyu/yxlyu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
