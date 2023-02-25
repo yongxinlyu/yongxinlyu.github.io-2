@@ -1,40 +1,7 @@
 ## Hi there!
 
-I am a second year PhD student in School of Materials Science and Engineering at University of New South Wales (UNSW).
+I am currently a second year PhD student in School of Materials Science and Engineering at University of New South Wales (UNSW). Here I work under Prof.Tom Wu, focusing on atomic scale simulation of two-dimensional(2D) perovskite for optoelectronics application.
 
-You can use the [editor on GitHub](https://github.com/yxlyu/yxlyu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I was born and raised in Longkou city, a beautiful harbour city in Shandong province, mainland China. I did my Bachelor and MPhil in applied physics at the Hong Kong Polytechnic University. My MPhil's thesis mainly focused on synthesis and modeling of two-dimensional(2D) materials.
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yxlyu/yxlyu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+In my spear time, I like listening to music. I enjoy learning different kinds of instruments, including piano, guitar, jazz drum. Recently I'm practicing fingerstyle guitar.
