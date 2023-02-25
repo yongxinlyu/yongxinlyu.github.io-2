@@ -1,10 +1,9 @@
-## Welcome to My GitHub Pages
+## Hi there!
 
-I'm a second year PhD student in UNSW.
+I am a second year PhD student in School of Materials Science and Engineering at University of New South Wales (UNSW).
 
 You can use the [editor on GitHub](https://github.com/yxlyu/yxlyu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -29,6 +28,8 @@ Syntax highlighted code block
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+
 
 ### Jekyll Themes
 
