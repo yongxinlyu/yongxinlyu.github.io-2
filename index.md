@@ -6,4 +6,5 @@ I was born and raised in Longkou city, a beautiful harbour city in Shandong prov
 
 In my spear time, I like listening to music. I enjoy learning different kinds of instruments, including piano, guitar, jazz drum. Recently I'm practicing fingerstyle guitar.
 
-This is the about me page. {% link /about.md %}
+
+
