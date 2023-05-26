@@ -1,6 +1,9 @@
-title: MM
-#theme: jekyll-theme-minimal
+title: Yongxin Lyu
+twitter_username: username
+github_username: username
 remote_theme: mmistakes/minimal-mistakes@4.24.0
+minimal_mistakes_skin: dirt
+search: true
 
 plugins:
   - jekyll-include-cache
