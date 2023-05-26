@@ -10,7 +10,7 @@ plugins:
   
 author:
   name   : "Yongxin Lyu"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/images/headshot2023.png"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
@@ -18,7 +18,7 @@ author:
       url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/yongxin_lyu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
