@@ -1,4 +1,4 @@
-[Home](index.md) | [About](about.md) 
+[Home](index.md) | [About](about.md) | [Posts](_posts/2023-02-25-new-blog.md)
 
 ## Hi there!
 
