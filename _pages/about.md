@@ -3,11 +3,11 @@ permalink: /about/
 title: "About"
 ---
 
-Hi there! I am a third year PhD candidate in School of Materials Science & Engineering, UNSW Sydney. Here I work in Prof. Tom Wu's Group, focusing on atomic scale simulation of two-dimensional (2D) perovskites for optoelectronics application.
+I am a third year PhD candidate in [School of Materials Science & Engineering](https://www.unsw.edu.au/science/our-schools/materials), UNSW Sydney. My research aim at discoverying new two-dimensional perovskites for optoelectronics using computational tools.
 
-I was born and raised in Longkou city, a beautiful harbour city in Shandong province, mainland China. I did my Bachelor and MPhil in applied physics at the Hong Kong Polytechnic University. My MPhil's thesis mainly focused on synthesis and modeling of 2D materials.
+I'm originally from Longkou, a beautiful harbour city in northeastern Shandong province, China. I moved to Hong Kong in 2013, where I completed my undergraduate and MPhil's degree at the Hong Kong Polytechnic University. During my MPhil I study two-dimensional materials using experimental and computational approaches in the group of [professor Jianhua Hao](https://ap.polyu.edu.hk/apjhhao/).
 
-In my spare time, I like listening to music. I enjoy learning different kinds of instruments, including piano, guitar, jazz drum. Recently I'm practicing fingerstyle guitar.
+At UNSW, I work in [Professor Tom Wu](https://www.unsw.edu.au/staff/tom-wu)'s Group focusing on atomic scale simulation of two-dimensional perovskites for optoelectronics application.
 
 ### Research Interests
 - atomic scale simulation of 2D perovskites
@@ -15,7 +15,6 @@ In my spare time, I like listening to music. I enjoy learning different kinds of
 ### Education
 - Bacholor of Science, Department of applied physics, the Hong Kong Polytechnic University
 - Master of Philosophy, Department of applied physics, the Hong Kong Polytechnic University
-
 
 ### Contact 
 - Email adress: yongxin.lyu@unsw.edu.au
