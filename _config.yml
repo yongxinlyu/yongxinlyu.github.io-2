@@ -66,7 +66,7 @@ author:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=UMQWBRQAAAAJ&hl=en"
-     - label: "ORCID"
+    - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0002-7758-2219"     
     - label: "Twitter"
