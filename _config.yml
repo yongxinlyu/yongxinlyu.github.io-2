@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Yongxin Lyu"
-  avatar : "/assets/images/bio-photo.png"
+  avatar : "/assets/images/bio-photo.jpeg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
@@ -73,19 +73,22 @@ author:
       url: "https://github.com/yxlyu"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "yongxin.lyu@unsw.edu.au"
+      url: "mailto:yongxin.lyu@unsw.edu.au"
+    - label: "Linkedin"
+      icon: "fas fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/yongxin-lyu-5b654b1a2/"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/yongxin_lyu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/yxlyu"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=UMQWBRQAAAAJ&hl=en"
 
 defaults:
   # _posts
