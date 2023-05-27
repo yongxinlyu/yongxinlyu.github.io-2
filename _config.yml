@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Yongxin Lyu"
   avatar : "/assets/images/bio-photo.jpeg"
-  bio    : "She/Her, PhD candidate at UNSW Sydney"
+  bio    : "she/her, PhD candidate at UNSW Sydney"
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
@@ -81,6 +81,9 @@ footer:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:yongxin.lyu@unsw.edu.au"
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/yxlyu"
 
 defaults:
   # _posts
