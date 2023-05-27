@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Yongxin Lyu"
   avatar : "/assets/images/bio-photo.jpeg"
-  bio    : "PhD student at UNSW Sydney"
+  bio    : "She/Her, PhD student at UNSW Sydney"
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
@@ -69,7 +69,9 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/yongxin_lyu"
-
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0002-7758-2219"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/yongxin-lyu-5b654b1a2/"
@@ -82,9 +84,6 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/yongxin_lyu"
-    - label: "Google Scholar"
-      icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=UMQWBRQAAAAJ&hl=en"
 
 defaults:
   # _posts
