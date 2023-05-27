@@ -75,7 +75,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:yongxin.lyu@unsw.edu.au"
     - label: "LinkedIn"
-      icon: "fa-brands fa-fw fa-linkedin"
+      icon: "fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/yongxin-lyu-5b654b1a2/"
 
 footer:
@@ -87,7 +87,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/yxlyu"
     - label: "Google Scholar"
-      icon: "fa-solid fa-fw fa-graduation-cap"
+      icon: "fa-solid fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=UMQWBRQAAAAJ&hl=en"
 
 defaults:
