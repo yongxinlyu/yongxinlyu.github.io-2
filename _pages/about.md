@@ -9,6 +9,9 @@ I was born and raised in Longkou city, a beautiful harbour city in Shandong prov
 
 In my spare time, I like listening to music. I enjoy learning different kinds of instruments, including piano, guitar, jazz drum. Recently I'm practicing fingerstyle guitar.
 
+### Research Interests
+- atomic scale simulation of 2D perovskites
+
 ### Education
 - Bacholor of Science, Department of applied physics, the Hong Kong Polytechnic University
 - Master of Philosophy, Department of applied physics, the Hong Kong Polytechnic University
