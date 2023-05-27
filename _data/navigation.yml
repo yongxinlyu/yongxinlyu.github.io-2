@@ -1,0 +1,7 @@
+docs:
+  - title: Getting Started
+    children:
+      - title: "Quick-Start Guide"
+        url: /docs/2023-02-25-new-blog.md/
+      - title: "Structure"
+        url: /docs/2023-02-25-new-blog.md/
