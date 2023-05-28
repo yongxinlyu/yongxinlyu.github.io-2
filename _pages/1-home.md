@@ -12,3 +12,6 @@ At UNSW, I work in [Professor Tom Wu](https://www.unsw.edu.au/staff/tom-wu)'s Gr
 
 #### Publications
 recent publications
+
+#### Contact
+drop me an email at yongxin.lyu@unsw.edu.au
