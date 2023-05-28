@@ -13,7 +13,7 @@ At UNSW, I work in [Professor Tom Wu](https://www.unsw.edu.au/staff/tom-wu)'s Gr
 - atomic scale simulation of 2D perovskites
 
 ### Education
-- Bacholor of Science, Department of applied physics, the Hong Kong Polytechnic University
+- Bachelor of Science, Department of applied physics, the Hong Kong Polytechnic University
 - Master of Philosophy, Department of applied physics, the Hong Kong Polytechnic University
 
 ### Contact 
