@@ -10,8 +10,14 @@ I'm originally from northern China. I moved to Hong Kong in 2013, where I comple
 
 At UNSW, I work in [Professor Tom Wu](https://www.unsw.edu.au/staff/tom-wu)'s Group focusing on atomic scale simulation of two-dimensional perovskites for optoelectronics application.
 
-#### Publications
-recent publications
+
+### Research Interests
+- atomic scale simulation of 2D perovskites
+
+### Education
+- Bachelor of Science, Department of applied physics, the Hong Kong Polytechnic University
+- Master of Philosophy, Department of applied physics, the Hong Kong Polytechnic University
+
 
 #### Contact
 drop me an email at yongxin.lyu@unsw.edu.au
