@@ -3,6 +3,8 @@ main:
     url: /home/
   - title: "Blog"
     url: /blog/
+  - title: "Outreach"
+    url: /outreach/    
   - title: "CV"
     url: /cv/
   - title: "Contact"
