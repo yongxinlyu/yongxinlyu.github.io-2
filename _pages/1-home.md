@@ -15,5 +15,8 @@ At UNSW, I work in [Professor Tom Wu](https://www.unsw.edu.au/staff/tom-wu)'s gr
 - Master of Philosophy, Department of Applied Physics, the Hong Kong Polytechnic University
 
 
+### CV 
+View my full CV [here](/assets/files/CV.pdf)
+
 #### Contact
 Feel free to drop me an email at yongxin.lyu@unsw.edu.au

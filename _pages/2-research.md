@@ -8,7 +8,7 @@ author_profile: true
 #### Research Interests
 Atomistic simulation of 2D perovskites
 
-#### Publications
+#### Selected Publications
 
 - Tailoring band alignment in two-dimensional Dion-Jacobson perovskites using organic spacers, **Yongxin Lyu**, Jun Yin, Tom Wu, *Manuscript under preparation*.
 
@@ -22,7 +22,7 @@ Atomistic simulation of 2D perovskites
 
 - Observation and theoretical analysis of near-infrared luminescence from CVD grown lanthanide Er doped monolayer MoS_2 triangles, Yongxin Lyu, Zehan Wu, Weng Fu Io, Jianhua Hao, *Applied Physics Letters* (2020). [Full text](https://doi.org/10.1063/1.5120173)
 
-#### Outreach
+#### Outreach Activities
 
 - Fantastic perovskites and where to find them. Pint of Science Australia 2023. [Link](https://pintofscience.com.au/event/black-white-pink-and-qubit-our-ailing-coral-reefs-and-a-new-frontier-in-quantum-technology-for-microelectronics)
 
