@@ -77,15 +77,13 @@ author:
       url: "https://www.linkedin.com/in/yongxin-lyu-5b654b1a2/"
 
 footer:
-  include:
-    - _includes/footer/custom.html
-#  links:
-#    - label: "Email"
-#      icon: "fas fa-fw fa-envelope-square"
-#      url: "mailto:yongxin.lyu@unsw.edu.au"
-#    - label: "Github"
-#      icon: "fab fa-fw fa-github"
-#      url: "https://github.com/yxlyu"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:yongxin.lyu@unsw.edu.au"
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/yxlyu"
 
 defaults:
   # _posts
