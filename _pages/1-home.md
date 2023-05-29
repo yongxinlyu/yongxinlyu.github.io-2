@@ -11,9 +11,8 @@ I'm originally from northern China. I moved to Hong Kong in 2013, where I comple
 At UNSW, I work in [Professor Tom Wu](https://www.unsw.edu.au/staff/tom-wu)'s group focusing on atomic scale simulation of two-dimensional perovskites for optoelectronics application.
 
 ### Education
-- Bachelor of Science, Department of Applied Physics, the Hong Kong Polytechnic University
 - Master of Philosophy, Department of Applied Physics, the Hong Kong Polytechnic University
-
+- Bachelor of Science, Department of Applied Physics, the Hong Kong Polytechnic University
 
 ### CV 
 View my full CV [here](/assets/files/CV.pdf)
