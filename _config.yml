@@ -116,3 +116,6 @@ tag_archive:
 
 atom_feed:
   hide: true
+
+#page_js:
+#  - /assets/js/footercustom.js
