@@ -79,13 +79,13 @@ author:
 footer:
   include:
     - _includes/footer/custom.html
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:yongxin.lyu@unsw.edu.au"
-    - label: "Github"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/yxlyu"
+#  links:
+#    - label: "Email"
+#      icon: "fas fa-fw fa-envelope-square"
+#      url: "mailto:yongxin.lyu@unsw.edu.au"
+#    - label: "Github"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/yxlyu"
 
 defaults:
   # _posts
@@ -117,5 +117,3 @@ tag_archive:
 atom_feed:
   hide: true
 
-#page_js:
-#  - /assets/js/footercustom.js
