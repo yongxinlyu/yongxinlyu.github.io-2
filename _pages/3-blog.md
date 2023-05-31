@@ -1,6 +1,6 @@
 ---
 title: "Posts by Year"
 permalink: /blog/
-layout: figure
+layout: test
 author_profile: true
 ---
