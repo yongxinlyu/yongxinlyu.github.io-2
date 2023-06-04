@@ -1,5 +1,5 @@
 ---
-title: "PCE of 2D perovskites"
+title: "PCE of perovskite-based solar cells"
 categories:
   - Research
 tags:
