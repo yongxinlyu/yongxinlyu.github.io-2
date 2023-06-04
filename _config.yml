@@ -83,7 +83,7 @@ footer:
       url: "mailto:yongxin.lyu@unsw.edu.au"
     - label: "Github"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/yxlyu"
+      url: "https://github.com/yongxinlyu"
 
 defaults:
   # _posts
