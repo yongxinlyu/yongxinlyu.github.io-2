@@ -7,3 +7,4 @@ tags:
   - Solar cell
 ---
 checkout the graph [here](/assets/files/PCE.html)
+checkout the chemical space [here] (/assets/files/chemical-space.html)
