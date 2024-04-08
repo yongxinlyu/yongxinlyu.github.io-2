@@ -10,8 +10,6 @@ Atomistic simulation of 2D perovskites
 
 #### Selected Publications
 
-#- Tailoring band alignment in two-dimensional Dion-Jacobson perovskites using organic spacers, **Yongxin Lyu**, Jun Yin, Tom Wu, *Manuscript under preparation*.
-
 - Revealing photovoltaic behavior in 2D hybrid perovskite ferroelectric single-crystalline microwire arrays for self-powered photodetectors, Ran Ding, **Yongxin Lyu**, Yuqian Zhao, Zehan Wu, Feng Guo, Weng Fu Io, Sin-Yi Pang, Jianfeng Mao, Man-Chung Wong, Lok Wing Wong, Cenqi Yan, Jiangsheng Yu, Jiong Zhao, Gang Li, Jianhua Hao, *Materials Today Physics* (2022). [full text](https://doi.org/10.1016/j.mtphys.2022.100867)
 
 - Effective piezo-phototronic enhancement of flexible photodetectors based on 2D hybrid perovskite ferroelectric single-crystalline thin-films, Ran Ding, **Yongxin Lyu**, Zehan Wu, Feng Guo, Weng Fu Io, Sin-Yi Pang, Yuqian Zhao, Jianfeng Mao, Man-Chung Wong, Jianhua Hao, *Advanced Materials* (2021). [full text](https://doi.org/10.1002/adma.202101263)
